@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HappyFood</string>
+    <string name="menu">Menu: %1$s</string>
+    <string name="greeting">Selamat menikmati makanan favorit anda: %1$s</string>
+    <string name="food_not_found">Maaf kami tidak menyediakan: %1$s</string>
+    <string name="food_hint">Ketik makanan favoritmu disini...</string>
+    <string name="food_name_validation">Nama makanan perlu diisi</string>
+    <string name="search">Search</string>
+</resources>
